@@ -1,4 +1,4 @@
-This project, developed in C by myself and two fellow students, was conceived during our Operating Systems course. It utilizes advanced concepts like multithreading and synchronization to seamlessly manage and process bus tickets and information.
+This project, developed in C by myself and two fellow students, was conceived during our Operating Systems course during our fourth semester. It utilizes advanced concepts like multithreading and synchronization to seamlessly manage and process bus tickets and information.
 
 Features:
 File-based Data Input: The system reads all data from files, minimizing reliance on user input.
