@@ -1,0 +1,60 @@
+283 carsaz malir gulshan
+536 carsaz ayesha manzil clifton
+244 pechs bahadurabad airport
+623 highway numasih johar
+340 carsaz bahadurabad clifton
+847 saddar numasih gulshan
+10 highway bahadurabad gulshan
+174 highway tariq road cantt station
+587 carsaz tariq road clifton
+355 shahrahefaisal ayesha manzil johar
+238 pechs malir cantt station
+656 highway bahadurabad cantt station
+388 saddar tariq road cantt station
+396 carsaz malir gulshan
+589 highway tariq road gulshan
+414 shahrahefaisal bahadurabad johar
+206 shahrahefaisal numasih johar
+206 pechs ayesha manzil gulshan
+77 shahrahefaisal tariq road cantt station
+544 shahrahefaisal ayesha manzil airport
+926 saddar malir clifton
+382 highway ayesha manzil airport
+441 pechs numasih airport
+770 highway malir cantt station
+320 shahrahefaisal malir clifton
+229 carsaz malir clifton
+476 shahrahefaisal tariq road johar
+98 shahrahefaisal ayesha manzil clifton
+579 saddar ayesha manzil gulshan
+795 pechs bahadurabad johar
+841 pechs ayesha manzil johar
+171 carsaz tariq road johar
+764 highway malir gulshan
+932 shahrahefaisal ayesha manzil airport
+80 pechs tariq road airport
+762 pechs tariq road johar
+590 highway numasih cantt station
+119 saddar bahadurabad cantt station
+178 highway ayesha manzil gulshan
+459 pechs malir cantt station
+121 pechs ayesha manzil airport
+408 shahrahefaisal numasih gulshan
+961 shahrahefaisal ayesha manzil johar
+981 saddar malir gulshan
+552 highway numasih gulshan
+936 carsaz bahadurabad gulshan
+72 highway malir gulshan
+174 pechs ayesha manzil airport
+990 carsaz numasih cantt station
+483 shahrahefaisal bahadurabad johar
+692 carsaz ayesha manzil johar
+112 saddar numasih johar
+35 pechs malir clifton
+698 pechs tariq road johar
+327 pechs malir airport
+288 shahrahefaisal malir gulshan
+861 carsaz bahadurabad clifton
+511 highway bahadurabad clifton
+615 carsaz bahadurabad johar
+4 pechs tariq road clifton
